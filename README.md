@@ -19,9 +19,13 @@ To build the classifier (15-30mn depending on internet connection and number of 
 
 python build_wiki_classifier.py categories_file_name model_save_name vectorizer_save_name
 
+example:  python build_wiki_classifier.py  categories.txt model_01  vectorize_01
+
 To run the classifier:
 
 python category_predicter.py categories_file_name model_name> <vectorizer_name url
+
+example: python category_predicter.py categories.txt model vectorizer https://en.wikipedia.org/wiki/Mycotic_aneurysm
  
 
 
