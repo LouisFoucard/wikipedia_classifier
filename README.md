@@ -16,8 +16,11 @@ BeautifulSoup, urllib2, re, sklearn, numpy, nltk
 Usage
 
 To build the classifier (5-15mn depending on internet connection):
+
 python build_wiki_classifier.py categories_file_name model_save_name vectorizer_save_name
+
 To run the classifier:
+
 python category_predicter.py categories_file_name model_name> <vectorizer_name url
  
 
