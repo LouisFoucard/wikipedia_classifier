@@ -1,0 +1,4 @@
+###### Requirements ######
+beautifulsoup4
+scikit-learn
+nltk

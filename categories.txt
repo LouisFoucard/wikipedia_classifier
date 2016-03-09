@@ -1,0 +1,1 @@
+Medical_devices 1,Rare_diseases 1,Infectious_diseases 1,Cancer 1,Congenital_disorders 1,Organs_(anatomy) 1,Machine_learning_algorithms 1
